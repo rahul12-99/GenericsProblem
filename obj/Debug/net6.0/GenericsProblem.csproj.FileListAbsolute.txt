@@ -1,0 +1,15 @@
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\bin\Debug\net6.0\GenericsProblem.exe
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\bin\Debug\net6.0\GenericsProblem.deps.json
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\bin\Debug\net6.0\GenericsProblem.runtimeconfig.json
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\bin\Debug\net6.0\GenericsProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\bin\Debug\net6.0\GenericsProblem.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.csproj.AssemblyReference.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.AssemblyInfoInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.AssemblyInfo.cs
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.csproj.CoreCompileInputs.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\refint\GenericsProblem.dll
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.pdb
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\GenericsProblem.genruntimeconfig.cache
+C:\Users\Rahul.DESKTOP-IK03H3J\C#\GenericsProblem\obj\Debug\net6.0\ref\GenericsProblem.dll
